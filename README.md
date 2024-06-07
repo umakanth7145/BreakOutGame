@@ -4,9 +4,7 @@
  
 <p align="center"><img src="https://user-images.githubusercontent.com/87230771/126675093-d6d4e15f-8ce7-4866-9e8c-86820c1a06d3.gif" alt="gif" width="400"/>
 
-<p align="center"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/MatthewTamYT/Breakout?logo=GitHub"> 
-<img alt="GitHub" src="https://img.shields.io/github/license/MatthewTamYT/Breakout?logo=GitHub">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/MatthewTamYT?color=%23000000&label=Follow%20Me%21&logoColor=%23000000&style=social">
+
  
 [![Stargazers repo roster for @MatthewTamYT/Pong](https://reporoster.com/stars/MatthewTamYT/Breakout)](https://github.com/MatthewTamYT/Breakout/stargazers)
 [![Forkers repo roster for @MatthewTamYT/Pong](https://reporoster.com/forks/MatthewTamYT/Breakout)](https://github.com/MatthewTamYT/Breakout/network/members)
@@ -75,11 +73,7 @@ Of course, you are free to edit the code after you downloaded another copy, wher
 - [x] Improve appearance. 🌻
 
 ## **Credits**
-#### Who helped?
-Huge credits to Coding With Russ for inspiring the idea. A lot of the code was his idea. Check out his [YouTube channel](https://www.youtube.com/channel/UCPrRY0S-VzekrJK7I7F4-Mg).
-- Matthew Tam
-- Walter Tam
-- Robert Brown
+
 
 ## **Copyright License**
 I am open to people copying my code and improving it. Just link me to the project. 
@@ -88,4 +82,4 @@ However, please do not just take my code and claim it's yours.
 
 <br><br/>
 
-I am looking forward to making this code work better. So please be comfortable to open issues or contact me: *mtytteacher@gmail.com*
+I am looking forward to making this code work better. So please be comfortable to open issues or contact me: *banothumakanth@gmail.com*
