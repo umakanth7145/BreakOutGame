@@ -3,11 +3,12 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/87230771/126676206-b561e8a5-76ed-4a3d-92cd-d7f4cff9fc63.jpg" alt="logo" width="600"/>
  
 <p align="center"><img src="https://user-images.githubusercontent.com/87230771/126675093-d6d4e15f-8ce7-4866-9e8c-86820c1a06d3.gif" alt="gif" width="400"/>
-
+<p align="center"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/MatthewTamYT/Breakout?logo=GitHub"> 
+<img alt="GitHub" src="https://img.shields.io/github/license/MatthewTamYT/Breakout?logo=GitHub">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/MatthewTamYT?color=%23000000&label=Follow%20Me%21&logoColor=%23000000&style=social">
 
  
-[![Stargazers repo roster for @MatthewTamYT/Pong](https://reporoster.com/stars/MatthewTamYT/Breakout)](https://github.com/MatthewTamYT/Breakout/stargazers)
-[![Forkers repo roster for @MatthewTamYT/Pong](https://reporoster.com/forks/MatthewTamYT/Breakout)](https://github.com/MatthewTamYT/Breakout/network/members)
+
 
 ## **Description**
 #### What does the application do?
