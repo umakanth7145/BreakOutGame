@@ -3,9 +3,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/87230771/126676206-b561e8a5-76ed-4a3d-92cd-d7f4cff9fc63.jpg" alt="logo" width="600"/>
  
 <p align="center"><img src="https://user-images.githubusercontent.com/87230771/126675093-d6d4e15f-8ce7-4866-9e8c-86820c1a06d3.gif" alt="gif" width="400"/>
-<p align="center"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/MatthewTamYT/Breakout?logo=GitHub"> 
-<img alt="GitHub" src="https://img.shields.io/github/license/MatthewTamYT/Breakout?logo=GitHub">
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/MatthewTamYT?color=%23000000&label=Follow%20Me%21&logoColor=%23000000&style=social">
+
 
  
 
@@ -83,4 +81,4 @@ However, please do not just take my code and claim it's yours.
 
 <br><br/>
 
-I am looking forward to making this code work better. So please be comfortable to open issues or contact me: *banothumakanth@gmail.com*
+I am looking forward to making this code work better. So please be comfortable to open issues or contact me: *banothumakanth0@gmail.com*
